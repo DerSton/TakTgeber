@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="960"
+   height="540"
+   viewBox="0 0 960 540"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <path
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       d="m 507.39846,418.35346 1.05379,-110.91109 85.6202,0.79034 0.52689,-72.18441 -143.57848,0.52689 1.31723,-117.49725 -209.70362,-0.5269 v 17.65094 l -24.2371,26.60812 -25.81779,-1.05379 -1.05378,111.96488 236.83864,-2.37103 2.10757,145.68606 z"
+       id="room.flur" />
+    <rect
+       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       id="room.marla"
+       width="113.54556"
+       height="141.73436"
+       x="313.23819"
+       y="272.66739" />
+    <rect
+       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       id="room.kilian"
+       width="141.99782"
+       height="112.49176"
+       x="453.12842"
+       y="121.7124" />
+    <rect
+       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       id="room.baby"
+       width="179.67068"
+       height="231.83315"
+       x="595.91656"
+       y="54.796925" />
+    <path
+       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:8.01725;stroke-dasharray:none;stroke-opacity:1"
+       d="m 176.35943,63.574646 -32.41862,36.493524 -3.7406,45.08024 c 0,0 32.00299,33.48818 33.66546,34.34685 1.66251,0.85866 42.80921,1.71734 42.80921,1.71734 l 37.82172,-32.20018 3.74061,-50.661596 -41.1467,-31.341494 z"
+       id="room.gon" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       id="room.bad"
+       width="82.722282"
+       height="108.54007"
+       x="509.76947"
+       y="308.75961" />
+    <rect
+       style="opacity:1;fill:#ff6600;stroke:none;stroke-width:5;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="room.moritz"
+       width="114.33589"
+       height="143.05159"
+       x="196.53128"
+       y="271.87704" />
+    <image
+       width="960"
+       height="540"
+       preserveAspectRatio="none"
+       xlink:href="../e803ca45/160191993_home_first_floor_first_design_20240724_e21360.png"
+       id="image1"
+       style="display:none;opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 193.47905,176.24135 -0.76774,241.45349 h 401.75631 l 0.26345,-130.1427 H 777.95829 V 52.030736 L 594.86279,51.899012 V 118.94621 L 254.88408,118.7919"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.8445;stroke-dasharray:none;stroke-opacity:1"
+       id="path3"
+       d="m 172.56664,93.092443 -20.84197,20.619467 -29.31767,-0.15733 -20.61947,-20.841977 0.15734,-29.317665 20.84197,-20.619467 29.31767,0.157334 20.61946,20.841973 z"
+       transform="matrix(1.7417515,0,0,1.6547763,-40.110165,-7.0595848)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       d="m 196.53128,272.14051 231.83316,-0.26345 0.52689,143.84193"
+       id="path4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       d="M 311.92097,272.93085 V 417.56312"
+       id="path5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       d="M 453.12843,120.65862 452.33809,234.99451 594.59934,233.94072 593.809,122.2393"
+       id="path6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       d="m 594.59934,232.62349 0.26345,57.4314"
+       id="path7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       d="M 591.70143,308.23271 508.1888,307.70582 V 415.98244"
+       id="path8" />
+  </g>
+</svg>
